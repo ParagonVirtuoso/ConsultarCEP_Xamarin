@@ -1,0 +1,1 @@
+C:\Git\XamarinFormsApp1\ConsultaApp\App1_ConsultarCEP\App1_ConsultarCEP\App1_ConsultarCEP.UWP\App1_ConsultarCEP.UWP.csproj;x86
